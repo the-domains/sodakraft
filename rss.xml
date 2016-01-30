@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[sodakraft]]></title>
         <description><![CDATA[sodakraft]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sodakraft/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 21:02:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Jan 2016 21:24:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sodakraft/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/10409041-7b51-4f0f-81e9-5f8274b9f33a.jpg">]]></description>
+            <link>https://thegrid.ai/sodakraft/8dbe9342-9c26-4c0a-836a-72c52900d12c/index.html</link>
+            <guid isPermaLink="false">8dbe9342-9c26-4c0a-836a-72c52900d12c</guid>
+            <pubDate>Sat, 30 Jan 2016 21:24:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/310c2109-56d8-4517-95ff-1cf99a3b18a3.jpg">]]></description>
-            <link>undefined8abdc406-73f3-4992-a188-0c8f8b3847c4/index.html</link>
+            <link>https://thegrid.ai/sodakraft/8abdc406-73f3-4992-a188-0c8f8b3847c4/index.html</link>
             <guid isPermaLink="false">8abdc406-73f3-4992-a188-0c8f8b3847c4</guid>
             <pubDate>Sat, 30 Jan 2016 21:02:29 GMT</pubDate>
         </item>
