@@ -1,0 +1,28 @@
+name: sodakraft
+favicon: null
+layout_spectrum: 0.2149747791700065
+typography_spectrum: 0.3029866220895201
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.3863628623075783
+  lightness: 0.9044259921647608
+  saturation: 0.5551070861984044
+  rhythmicContrast: 0.5851114368997514
+purpose: []
